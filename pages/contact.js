@@ -1,10 +1,10 @@
 import Layout from '../components/MyLayout';
 
-const About =()=>{
+const Contact =()=>{
     return(
         <Layout>
-            <p>Hello About page</p>
+            <p>Hello Contact page</p>
         </Layout>
     )
 }
-export default About;
+export default Contact;

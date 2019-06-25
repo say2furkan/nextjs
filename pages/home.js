@@ -1,10 +1,10 @@
 import Layout from '../components/MyLayout';
 
-const About =()=>{
+const Home =()=>{
     return(
         <Layout>
-            <p>Hello About page</p>
+            <p>Hello Home page</p>
         </Layout>
     )
 }
-export default About;
+export default Home;
