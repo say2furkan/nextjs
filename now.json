@@ -1,1 +1,4 @@
-{"version":2,"name":"nextjs","builds":[{"src":"package.json","use":"@now/next"}]}
+{
+    "version": 2,
+    "builds": [{ "src": "package.json", "use": "@now/next" }]
+  }
